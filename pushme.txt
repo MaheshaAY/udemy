@@ -1,1 +1,3 @@
 let's check the --set-upstream (-u)feature 
+
+I have set up the upstream now.
